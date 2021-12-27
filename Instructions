@@ -1,0 +1,3 @@
+```
+curl https://github.com/Eighteen-K/ZabbixAgentInstaller/blob/main/zabbix-agent-centos.sh |bash
+```
